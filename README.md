@@ -1,1 +1,1 @@
-# Proposta de APIRest em Node com Express.
+# Proposta de API Rest em Node com Express.
